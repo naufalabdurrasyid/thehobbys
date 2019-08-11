@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,cACI,YAAa,CACb,UAAW,CACX,cAAe,CACf,gBACJ","file":"main.9aa36290.chunk.css","sourcesContent":[".carousel-img{\n    height: 500px;\n    width: 100%;\n    max-width: 100%;\n    max-height: 500px;\n}"]}
