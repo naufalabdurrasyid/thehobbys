@@ -1,15 +1,8 @@
 import React, { Component } from 'react';
-import { Jumbotron, Container, Collapse, Button, CardBody, Card } from 'reactstrap';
+import { Jumbotron, Container } from 'reactstrap';
 
 class HomeJumbotron extends Component {
-  constructor(props) {
-    super(props);
-    this.toggle = this.toggle.bind(this);
-    this.state = { collapse: false };
-  }
-  toggle() {
-    this.setState(state => ({ collapse: !state.collapse }));
-  }
+  
   render() {
   return (
     <div>

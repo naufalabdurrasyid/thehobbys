@@ -4,16 +4,16 @@ import AppFooter from '../common/AppFooter';
 
 import HomeCarousel from './HomeCarousel';
 import HomeJumbotron from './HomeJumbotron';
-import HomeCard from './HomeCard'
+import HomeInfo from './HomeInfo';
 
 export default class Homepage extends Component {
     render(){
         return (
             <div>
-                <AppHeader gambar = {this.gambar}/>
+                <AppHeader />
                 <HomeCarousel />
                 <HomeJumbotron />
-                <HomeCard />
+                <HomeInfo />
                 <AppFooter />
             </div>
         )

@@ -1,10 +1,5 @@
 import React from 'react';
-// import { Container } from 'reactstrap';
 import { Link, withRouter } from 'react-router-dom'
-// import Avatar from 'react-avatar';
-// import store from 'store'
-// import isLoggedIn from '../helpers/is_logged_in';
-// import axios from 'axios';
 
 
 class AppFooter extends React.Component {
