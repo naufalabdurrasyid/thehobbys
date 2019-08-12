@@ -17,7 +17,7 @@ class HomeInfo extends Component {
                 
         return (
             <div style={{ textAlign: 'center' }}>
-                <h1>Layanan Booking</h1>
+                <h1>Layanan Booking The Hobbys...</h1>
                 <Container style={{ textAlign: 'center' }} >
                     
                         
